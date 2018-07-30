@@ -1,3 +1,5 @@
+Custom Modify from https://github.com/recs182/react-native-datecs-printer
+
 # react-native-datecs-printer
 
 It only **works on Android** and have only few specific methods.
