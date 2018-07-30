@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/tada-id/Documents/Project/React-Native/tada-pos/node_modules/react-native-datecs-printer/android/src/main/assets"/><source path="/home/tada-id/Documents/Project/React-Native/tada-pos/node_modules/react-native-datecs-printer/android/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/tada-id/Documents/Project/React-Native/tada-pos/node_modules/react-native-datecs-printer/android/src/debug/assets"/></dataSet></merger>

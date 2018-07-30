@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Revenir en haut de la page"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Plus d\'options"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"OK"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Tout afficher"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Sélectionner une application"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Rechercher…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Effacer la requête"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Requête de recherche"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Rechercher"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Envoyer la requête"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Recherche vocale"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
+    <string name="connecting">Connexion...</string>
+    <string name="err_bt_socket">Impossible de créer le socket Bluetooth</string>
+    <string name="err_disconnect_printer">Échec de déconnexion</string>
+    <string name="err_feed_paper">Erreur d\'alimentation du papier à l\'imprimante</string>
+    <string name="err_fetch_st">Échec d\'extraction de l\'état</string>
+    <string name="err_fetch_tmp">Échec d\'extraction de la température</string>
+    <string name="err_lines_number">Le nombre de lignes doit être compris entre 0 et 255</string>
+    <string name="err_no_bt_adapter">Adaptateur Bluetooth non disponible</string>
+    <string name="err_no_bt_device">Aucun périphérique Bluetooth trouvé</string>
+    <string name="err_print">Erreur d\'impression</string>
+    <string name="err_print_barcode">Erreur d\'impression du code à barre</string>
+    <string name="err_print_img">Erreur d\'impression de l\'image</string>
+    <string name="err_print_rect">Erreur d\'impression du rectangle</string>
+    <string name="err_print_test">Erreur d\'impression de la page de test</string>
+    <string name="err_set_barcode">Erreur de réglage des paramètres de codes à barres</string>
+    <string name="failed_to_comm">Impossible d\'établir la communication</string>
+    <string name="failed_to_connect">Échec de connexion</string>
+    <string name="failed_to_initialize">Échec de l\'initialisation</string>
+    <string name="low_battery">Batterie faible</string>
+    <string name="no_paper">Pas de papier</string>
+    <string name="overheating">Surchauffe</string>
+    <string name="paper_ok">Papier ok</string>
+    <string name="printer">Imprimante</string>
+    <string name="printer_connected">Imprimante connectée</string>
+    <string name="printer_disconnected">Imprimante déconnectée</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+</resources>

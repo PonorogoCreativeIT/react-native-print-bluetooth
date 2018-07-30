@@ -1,0 +1,58 @@
+{
+  "_from": "react-native-datecs-printer",
+  "_id": "react-native-datecs-printer@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha512-8xL5100zVDchqXrxRvHP2+ui6IXL9xLJbglV5H2yimvtKDfMc17R6+S96Ar40X5cPIUxYbKzTJHxUwodGr7KgA==",
+  "_location": "/react-native-datecs-printer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-datecs-printer",
+    "name": "react-native-datecs-printer",
+    "escapedName": "react-native-datecs-printer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-datecs-printer/-/react-native-datecs-printer-0.1.3.tgz",
+  "_shasum": "84140260d1b05b90a38196329bc043bfe1804bdd",
+  "_spec": "react-native-datecs-printer",
+  "_where": "/home/tada-id/Documents/Project/React-Native/MerchantApp",
+  "author": {
+    "name": "Renan Cardoso Soares",
+    "email": "renan-csoares@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/renancsoares/react-native-datecs-printer/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [],
+  "deprecated": false,
+  "description": "A port of https://github.com/giorgiofellipe/cordova-plugin-datecs-printer/ for React Native.",
+  "homepage": "https://github.com/renancsoares/react-native-datecs-printer#readme",
+  "keywords": [
+    "react-native",
+    "datecs",
+    "printer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-datecs-printer",
+  "peerDependencies": {
+    "react-native": "^0.47.2"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renancsoares/react-native-datecs-printer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}

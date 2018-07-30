@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/tada-id/Documents/Project/React-Native/tada-pos/node_modules/react-native-datecs-printer/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/tada-id/Documents/Project/React-Native/tada-pos/node_modules/react-native-datecs-printer/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/tada-id/Documents/Project/React-Native/tada-pos/node_modules/react-native-datecs-printer/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/tada-id/Documents/Project/React-Native/tada-pos/node_modules/react-native-datecs-printer/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]
